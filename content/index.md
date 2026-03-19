@@ -16,4 +16,4 @@ permalink:
 **누구든 기술의 장벽이나 유지 보수의 벽에 막히지 않고 서비스를 만들 수 있기를 바랍니다.**
 
 한편, 블로그를 작성할 때는 절대로 AI의 글을 복사하지 않습니다. 순수 취미인 일에서조차 AI를 사용하며 이해했다는 거짓을 말하고 싶지 않습니다.
-<a href="/JangWooJoo_CV.pdf" target="_blank">CV</a>, [LinkedIn](https://www.linkedin.com/in/naroziq/), [Github](https://github.com/naroziq)는 여기에서 확인하실 수 있습니다.
+<a href="/JangWooJoo_CV.pdf" target="_blank">CV</a>, <a href="https://www.linkedin.com/in/naroziq/" target="_blank">LinkedIn</a>, <a href="https://github.com/naroziq" target="_blank">Github</a>는 여기에서 확인하실 수 있습니다.
