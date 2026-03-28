@@ -6,7 +6,7 @@ tags:
   - "#AI"
   - "#논문"
 aliases:
-draft: true
+draft: false
 permalink:
 ---
 ## 000 is all you need
