@@ -6,7 +6,7 @@ tags:
   - "#기업"
   - "#AI"
 aliases:
-draft:
+draft: true
 permalink:
 ---
 ## LG TECH CONFERENCE
