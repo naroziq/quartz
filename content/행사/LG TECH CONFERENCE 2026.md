@@ -1,5 +1,5 @@
 ---
-title: "LG TC: 압도적이고 감동적인"
+title: LG TC-압도적이고 감동적인, 이상적을 넘어 완벽한
 description:
 date:
 tags:
@@ -94,3 +94,5 @@ $$
 이 소중한 기회를 허투루 쓰지 않고 최대한의 인사이트를 얻고, 최대한의 동기 부여를 받기 위해 AI 관련 지식을 최대한 쌓기 시작했습니다. 이미 [PRML](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) 이나 [Deep Learning](https://www.deeplearningbook.org/)정도 지식은 있지만, 오히려 최근 개발 트렌드, 특히 harness 쪽이 부족하다고 느꼈거든요. 관련 트렌드와 앞으로의 1년을 소개하는 자리인 만큼, 관련 분야나 LG 측의 기술을 알고 있으면 좋겠다고 생각했습니다. 
 
 기술 관련 글은 따로 첨부할게요.
+* [[특이값 분해]]
+* 
