@@ -1,3 +1,12 @@
+---
+title: 미완
+description:
+date:
+tags:
+aliases:
+draft: true
+permalink:
+---
 ## OT
 TC:  LG그룹 R&D 교류행사. 
 [시간표이미지]
